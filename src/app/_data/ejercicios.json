@@ -1,0 +1,778 @@
+[
+    {
+        "ciclo": [
+            {
+                "semana": [
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "semana": [
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ciclo": [
+            {
+                "semana": [
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "semana": [
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "dia": [
+                            {
+                                "fecha": "25/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            },
+                            {
+                                "fecha": "27/03/2022",
+                                "ejercicios": [
+                                    {
+                                        "nombre": "Flexiones",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Dominadas",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Desplantes",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    },
+                                    {
+                                        "nombre": "Abdominales",
+                                        "tandas": 2,
+                                        "repeticiones": 10,
+                                        "tiempo": 10,
+                                        "nivel": 3,
+                                        "peso": 10,
+                                        "extra": false,
+                                        "tabata": false
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+<h1>Programa Desencadenado</h1>
+<ul>
+    <li *ngFor="let cicle of listaEjercicios, let i = index">
+        <h2 (click)="toggle('ciclo' + (i+1))">> Ciclo {{i + 1}}</h2>
+        <ul id="ciclo{{i + 1}}">
+            <li *ngFor="let semanica of cicle.ciclo[i].semana, let j = index">
+                <h3 (click)="toggle('semana' + (j+1))">> Semana {{j + 1}}</h3>
+                <ul id="semana{{j + 1}}">
+                    <li *ngFor="let dia of cicle.ciclo[i].semana[j].dia, let k = index">
+                        <h4 (click)="toggle('dia' + (k+1))">> Día {{k + 1}}
+                            {{dia.fecha}}</h4>
+                        <div id="dia{{k + 1}}">
+                            <ul>
+                                <li *ngFor="let ejercicio of cicle.ciclo[i].semana[j].dia[k].ejercicios, let l = index"
+                                    class="ejercicio">
+                                    <header class="ejercicio-header">
+                                        {{ejercicio.nombre}}<span *ngIf="ejercicio.extra"> - Extra</span>
+                                        <span class="ejercicio-nivel"></span>
+                                    </header>
+                                    <div class="ejercicio-content">
+                                        <ul>
+                                            <li *ngIf="ejercicio.tabata">Tabata</li>
+                                            <li *ngIf="ejercicio.nivel">Nivel: <span
+                                                    class="ejercicio-value">{{ejercicio.nivel}}</span></li>
+                                            <li *ngIf="ejercicio.tandas"><span
+                                                    class="ejercicio-value">{{ejercicio.tandas}}</span> tandas</li>
+                                            <li *ngIf="ejercicio.repeticiones"><span
+                                                    class="ejercicio-value">{{ejercicio.repeticiones}}</span>
+                                                repeticiones
+                                            </li>
+                                            <li *ngIf="ejercicio.tiempo">Tiempo: <span
+                                                    class="ejercicio-value">{{ejercicio.tiempo}} segundos</span></li>
+                                            <li *ngIf="ejercicio.peso">Peso: <span
+                                                    class="ejercicio-value">{{ejercicio.peso}} kg</span></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
